@@ -41,6 +41,9 @@ a {
   text-decoration: none;
 }
 
+.navbar-brand{
+  margin-right: 0 !important;
+}
 .social_media {
   padding: 15px;
   background-color: var(--Primary-color);
@@ -81,6 +84,7 @@ a {
   color: #fff;
   width: 150px;
   font-family: var(--bah_bold);
+  margin-left: 20px;
 }
 
 swiper-container {
@@ -922,6 +926,10 @@ button.contact_form_submit {
   padding-bottom: 10px;
 }
 
+button.navbar-toggler {
+  background: #fff;
+}
+
 /* #################################################################### */
 /* ################## Start Mobile Devices Responsev ################## */
 /* #################################################################### */
@@ -1031,6 +1039,20 @@ button.contact_form_submit {
   .About_Section h3::before, .Services h3::before, .Why_Tasweqa h3::before, .My_Work h3::before, .Blog h3::before, .testmontiol h3::before{
     width: 30% !important;
   }
+
+  .All_Blogs {
+    grid-template-columns: repeat(2, 1fr);
+}
+.Blog_Data_Card{
+  height: auto !important;
+}
+.Blog .Blog_Data_Card .info_Blog p {
+  margin-bottom: 0 !important;
+  font-size: 12px;
+}
+.Blog .Blog_Data_Card .Blog_img {
+  height: 180px;
+}
 }
 
 
