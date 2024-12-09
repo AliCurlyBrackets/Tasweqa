@@ -1057,7 +1057,10 @@ button.navbar-toggler {
   height: 150px;
 }
 .Blog_Data_Card .Blog_img .Date{
-  font-size: 9px;
+  font-size: 14px;
+  padding: 10px 0;
+  width: 80%;
+  text-align: center;
 }
 .All_Blogs .writing{
   display: none;
