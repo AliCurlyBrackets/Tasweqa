@@ -1046,12 +1046,21 @@ button.navbar-toggler {
 .Blog_Data_Card{
   height: auto !important;
 }
+.Blog .Blog_Data_Card .info_Blog h2{
+  font-size: 15px;
+}
 .Blog .Blog_Data_Card .info_Blog p {
   margin-bottom: 0 !important;
-  font-size: 12px;
+  font-size: 11px;
 }
 .Blog .Blog_Data_Card .Blog_img {
-  height: 180px;
+  height: 150px;
+}
+.Blog_Data_Card .Blog_img .Date{
+  font-size: 9px;
+}
+.All_Blogs .writing{
+  display: none;
 }
 }
 
