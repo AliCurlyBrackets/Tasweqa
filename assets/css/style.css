@@ -1043,20 +1043,20 @@ button.navbar-toggler {
   .All_Blogs {
     grid-template-columns: repeat(2, 1fr);
 }
-.Blog_Data_Card{
+.All_Blogs .Blog_Data_Card{
   height: auto !important;
 }
-.Blog .Blog_Data_Card .info_Blog h2{
+.All_Blogs  .Blog_Data_Card .info_Blog h2{
   font-size: 15px;
 }
-.Blog .Blog_Data_Card .info_Blog p {
+.All_Blogs .Blog_Data_Card .info_Blog p {
   margin-bottom: 0 !important;
   font-size: 11px;
 }
-.Blog .Blog_Data_Card .Blog_img {
+.All_Blogs .Blog_Data_Card .Blog_img {
   height: 150px;
 }
-.Blog_Data_Card .Blog_img .Date{
+.All_Blogs .Blog_Data_Card .Blog_img .Date{
   font-size: 14px;
   padding: 10px 0;
   width: 80%;
