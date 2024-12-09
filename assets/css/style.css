@@ -1028,6 +1028,9 @@ button.contact_form_submit {
   .testmontiol .swiper-slide p{
     font-size: 10px;
   }
+  .About_Section h3::before, .Services h3::before, .Why_Tasweqa h3::before, .My_Work h3::before, .Blog h3::before, .testmontiol h3::before{
+    width: 20% !important;
+  }
 }
 
 
