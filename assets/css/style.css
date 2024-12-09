@@ -168,7 +168,7 @@ swiper-slide img {
 .Blog h3::before,
 .testmontiol h3::before {
   content: "";
-  width: 100%;
+  width: 20%;
   height: 70px;
   background-image: url(../images/Logo_Animation/logo_animation4.png);
   display: block;
