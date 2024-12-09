@@ -1065,6 +1065,19 @@ button.navbar-toggler {
 .All_Blogs .writing{
   display: none;
 }
+.timeline-point {
+  left: calc(-281px / 1) !important;
+  background: transparent !important;
+}
+.timeline-point i {
+  display: none;
+}
+.timeline-point::before{
+  background: transparent !important;
+}
+.time_line {
+  margin: -60px auto !important;
+}
 }
 
 
