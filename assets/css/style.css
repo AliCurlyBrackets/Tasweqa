@@ -869,7 +869,7 @@ button.contact_form_submit {
 @media(max-width:750px){
 
     .Slider{
-        height:200px;
+        height:200px !important;
     }
 
 }
