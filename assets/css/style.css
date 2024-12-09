@@ -1013,7 +1013,7 @@ button.navbar-toggler {
   }
 
   footer .footer_Data {
-    display: block !important;
+    flex-direction: column-reverse !important;
   }
 
   footer .footer_Data .Coulmn_4,
