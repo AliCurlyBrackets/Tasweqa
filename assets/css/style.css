@@ -1078,6 +1078,12 @@ button.navbar-toggler {
 .time_line {
   margin: -60px auto !important;
 }
+.contact_field {
+  padding: 11px !important;
+}
+.contact_info_sec{
+  display: none !important;
+}
 }
 
 
